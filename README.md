@@ -1,3 +1,8 @@
+In this Session we are going to code for token creation which stores certain value and name. 
+then we will perform three task like mint, burn, etc..  
+
+lets begin our explanation of each step clearly as follows. 
+
 Initially, i have created public variables that store the  about the coins like Token Name, Token Abbrv., and Total Supply as Token_Name, Token_Abbrv, and Token_TotalSupply, respectively.
 
 Second, we have created a public mapping of addresses to balances (address => uint) called Balance.
