@@ -1,6 +1,6 @@
 # MyToken Contract
 
-A Solidity contract for creating and managing a custom token called "bhardwaj" with the abbreviation "ABS".
+A Solidity contract for creating and managing a custom token called "bhardwaj" with the abbreviation "ABS". 
 
 ## Description
 
